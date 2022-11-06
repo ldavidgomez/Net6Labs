@@ -1,0 +1,15 @@
+C:\Workspaces\Personal\Net6\Net6Lab\EventsAndDelegates\bin\Debug\net6.0\EventsAndDelegates.exe
+C:\Workspaces\Personal\Net6\Net6Lab\EventsAndDelegates\bin\Debug\net6.0\EventsAndDelegates.deps.json
+C:\Workspaces\Personal\Net6\Net6Lab\EventsAndDelegates\bin\Debug\net6.0\EventsAndDelegates.runtimeconfig.json
+C:\Workspaces\Personal\Net6\Net6Lab\EventsAndDelegates\bin\Debug\net6.0\EventsAndDelegates.dll
+C:\Workspaces\Personal\Net6\Net6Lab\EventsAndDelegates\bin\Debug\net6.0\EventsAndDelegates.pdb
+C:\Workspaces\Personal\Net6\Net6Lab\EventsAndDelegates\obj\Debug\net6.0\EventsAndDelegates.csproj.AssemblyReference.cache
+C:\Workspaces\Personal\Net6\Net6Lab\EventsAndDelegates\obj\Debug\net6.0\EventsAndDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspaces\Personal\Net6\Net6Lab\EventsAndDelegates\obj\Debug\net6.0\EventsAndDelegates.AssemblyInfoInputs.cache
+C:\Workspaces\Personal\Net6\Net6Lab\EventsAndDelegates\obj\Debug\net6.0\EventsAndDelegates.AssemblyInfo.cs
+C:\Workspaces\Personal\Net6\Net6Lab\EventsAndDelegates\obj\Debug\net6.0\EventsAndDelegates.csproj.CoreCompileInputs.cache
+C:\Workspaces\Personal\Net6\Net6Lab\EventsAndDelegates\obj\Debug\net6.0\EventsAndDelegates.dll
+C:\Workspaces\Personal\Net6\Net6Lab\EventsAndDelegates\obj\Debug\net6.0\refint\EventsAndDelegates.dll
+C:\Workspaces\Personal\Net6\Net6Lab\EventsAndDelegates\obj\Debug\net6.0\EventsAndDelegates.pdb
+C:\Workspaces\Personal\Net6\Net6Lab\EventsAndDelegates\obj\Debug\net6.0\EventsAndDelegates.genruntimeconfig.cache
+C:\Workspaces\Personal\Net6\Net6Lab\EventsAndDelegates\obj\Debug\net6.0\ref\EventsAndDelegates.dll
