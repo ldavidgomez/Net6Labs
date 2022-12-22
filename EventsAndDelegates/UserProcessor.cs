@@ -18,6 +18,6 @@ public class UserProcessor
 
     protected virtual void OnUserProcessed(User user)
     {
-        UserProcessed(this, new UserEventArgs(){User = user});
+        UserProcessed(this, new UserEventArgs {User = user});
     }
 }
