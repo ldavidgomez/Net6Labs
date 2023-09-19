@@ -8,8 +8,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxingAndUnboxing.Benchmark
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CertToBase64String", "CertToBase64String\CertToBase64String.csproj", "{09668777-7ED8-4F03-8CE9-55AD8A35E230}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inherency", "Inherency\Inherency.csproj", "{E5FA554E-81C2-43E9-9560-D7F518157E59}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yield", "Yield\Yield.csproj", "{A13DBA8D-CBF1-413D-974E-84024430F457}"
 EndProject
 Global
@@ -34,10 +32,6 @@ Global
 		{09668777-7ED8-4F03-8CE9-55AD8A35E230}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09668777-7ED8-4F03-8CE9-55AD8A35E230}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09668777-7ED8-4F03-8CE9-55AD8A35E230}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E5FA554E-81C2-43E9-9560-D7F518157E59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E5FA554E-81C2-43E9-9560-D7F518157E59}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E5FA554E-81C2-43E9-9560-D7F518157E59}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E5FA554E-81C2-43E9-9560-D7F518157E59}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A13DBA8D-CBF1-413D-974E-84024430F457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A13DBA8D-CBF1-413D-974E-84024430F457}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A13DBA8D-CBF1-413D-974E-84024430F457}.Release|Any CPU.ActiveCfg = Release|Any CPU
