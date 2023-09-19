@@ -1,0 +1,25 @@
+###
+
+# curl --location 'http://localhost:5003/publish' 
+#--header 'Content-Type: application/json' 
+#--data '{
+#    "Topic": "item.new",
+#    "Message" : 
+#    {
+#        "Name": "Some Item",
+#        "Price": "2.55"
+#    }
+#}'
+POST http://localhost:5003/publish
+Content-Type: application/json
+
+{
+  "Topic": "item.new",
+  "Message": {
+    "Name": "Some Item",
+    "Price": "2.55"
+  }
+}
+
+###
+
