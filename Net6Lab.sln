@@ -10,6 +10,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CertToBase64String", "CertT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yield", "Yield\Yield.csproj", "{A13DBA8D-CBF1-413D-974E-84024430F457}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webhook.Server", "Webhook.Server\Webhook.Server.csproj", "{54A78D7E-F226-4F7D-A145-7EA804019700}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebHook.Client", "WebHook.Client\WebHook.Client.csproj", "{B9F2D091-35BE-4817-8E2F-833FE310C68F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +40,13 @@ Global
 		{A13DBA8D-CBF1-413D-974E-84024430F457}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A13DBA8D-CBF1-413D-974E-84024430F457}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A13DBA8D-CBF1-413D-974E-84024430F457}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54A78D7E-F226-4F7D-A145-7EA804019700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54A78D7E-F226-4F7D-A145-7EA804019700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54A78D7E-F226-4F7D-A145-7EA804019700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54A78D7E-F226-4F7D-A145-7EA804019700}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9F2D091-35BE-4817-8E2F-833FE310C68F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9F2D091-35BE-4817-8E2F-833FE310C68F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9F2D091-35BE-4817-8E2F-833FE310C68F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9F2D091-35BE-4817-8E2F-833FE310C68F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
